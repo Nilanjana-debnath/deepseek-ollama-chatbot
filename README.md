@@ -90,18 +90,6 @@ Key parameters can be adjusted in the `Config` class within `main.py`:
 - `MODEL_NAME`: Ollama model to use (default: "deepseek-r1:1.5b")
 - `MAX_RETRIES`: Maximum retry attempts for operations (default: 3)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - LangChain for the document processing pipeline
